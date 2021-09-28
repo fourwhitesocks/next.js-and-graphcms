@@ -13,10 +13,10 @@ export default function Home({amysGraphCmsTestSpaces}) {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       
-      <h1>First Next.js blog with Graph CMS and James Quick's:  Learning Quick</h1>
+      <h1>First Next.js blog with Graph CMS and James Quick:  Learning Quick</h1>
         
         
-      <h2>this is mapping over the query and then it's returning  the title </h2>
+      <h2>this is mapping over the query and then it returning  the title </h2>
 
       <ul>
         
